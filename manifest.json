@@ -1,7 +1,7 @@
 {
-  "name": "Brownie Bunch Kitchen",
-  "short_name": "BBK",
-  "description": "Family pantry & meal planner for the Brownie Bunch",
+  "name": "Shopping & Meal Planner",
+  "short_name": "Shop & Plan",
+  "description": "Brownie Bunch Kitchen — Family pantry, shopping & meal planner",
   "start_url": "/brownie-bunch-kitchen/",
   "scope": "/brownie-bunch-kitchen/",
   "display": "standalone",
