@@ -1,0 +1,25 @@
+{
+  "name": "Brownie Bunch Kitchen",
+  "short_name": "BBK",
+  "description": "Family pantry & meal planner for the Brownie Bunch",
+  "start_url": "/brownie-bunch-kitchen/",
+  "scope": "/brownie-bunch-kitchen/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e94560",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/brownie-bunch-kitchen/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brownie-bunch-kitchen/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
